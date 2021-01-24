@@ -13,11 +13,24 @@ Cuando pasa el cursor por encima de la cara, sonríe y cuando pulsa sobre esta, 
 _PHP | CSS_  
 Simulación de la tirada de cinco dados; Trata de sumar 7 en el menor número de intentos con la tirada de dos dados; Escoja la opción par o impar y pruebe fortuna.  
 [Enlace](https://practicaapachelv92.herokuapp.com) | [Proveedor](https://dashboard.heroku.com/apps) | [Repositorio](https://github.com/LuisValles92/Practica_Apache)
-* [Integración continua](https://practicaiclv92.herokuapp.com)
-* [Juego del ahorcado](https://luisvalles92.github.io/AhorcadoJS)
-* [Diseño de interfaces web](https://luisvalles92.github.io/MyWeb)
-* [Biblioteca](crudmvcbiblioteca.42web.io)
-* [Juego del tres en raya](https://luisvalles92.github.io/TresEnRayaJS)
+* __Integración continua__  
+_PHP_  
+Repositorio GitHub -> Testeo en Travis CI -> Despliegue en Heroku  
+[Enlace](https://practicaiclv92.herokuapp.com) | [Travis CI](https://travis-ci.org) | [Proveedor](https://dashboard.heroku.com/apps) | [Repositorio](https://github.com/LuisValles92/PracticaIC)
+* __Juego del ahorcado__  
+_JavaScript | HTML | CSS_  
+[Enlace](https://luisvalles92.github.io/AhorcadoJS) | [Repositorio](https://github.com/LuisValles92/AhorcadoJS)
+* __Diseño de Interfaces Web__  
+_HTML | SCSS | CSS | JavaScript_  
+Módulo de 2º de DAW.  
+[Enlace](https://luisvalles92.github.io/MyWeb) | [Repositorio](https://github.com/LuisValles92/MyWeb)
+* __Biblioteca (credenciales: juan / juan)__  
+_CSS | PHP_  
+Gestión de los libros de una biblioteca.  
+[Enlace](http://crudmvcbiblioteca.42web.io) | [Proveedor](https://app.infinityfree.net/login) | [Repositorio](https://github.com/LuisValles92/CRUD_MVC_Biblioteca)
+* __Juego del tres en raya__
+_JavaScript | HTML | CSS_  
+[Enlace](https://luisvalles92.github.io/TresEnRayaJS) | [Repositorio](https://github.com/LuisValles92/TresEnRayaJS)
 * [Calcular distancia entre dos coordenadas](https://examendawlv92.herokuapp.com)
 * [Geolocalización de un número decimal](https://practicacomposerlv92.herokuapp.com)
 * [MyMusic](http://mymusic.42web.io)
