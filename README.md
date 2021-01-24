@@ -3,7 +3,7 @@
 ### Sitios web:
 * __Venta de entradas__  
 _PHP_  
-Gestión de entradas de un recinto.  
+Gestión de la reserva de entradas de un recinto.  
 [Enlace](http://ventaentradas.42web.io) | [Repositorio](https://github.com/LuisValles92/Venta_entradas)
 * [Cara sonriente](https://luisvalles92.github.io/CaraSonriente)
 * [Dados (credenciales: juan@gmail.com / juan)](https://practicaapachelv92.herokuapp.com)
