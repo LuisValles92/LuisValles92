@@ -1,4 +1,4 @@
-### Últimos proyectos fijados:
+### :closed_book: Últimos proyectos fijados:
 
 <!--
 **LuisValles92/LuisValles92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
