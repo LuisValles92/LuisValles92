@@ -1,6 +1,6 @@
-### :closed_book: Últimos proyectos:
+## :closed_book: ÚLTIMOS PROYECTOS
+### Sitios web:
 * [Venta de entradas](http://ventaentradas.42web.io)
-* <a href="http://ventaentradas.42web.io" target="_blank">Venta de entradas</a>
 
 <!--
 **LuisValles92/LuisValles92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
