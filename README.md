@@ -13,9 +13,11 @@
 * [Geolocalización de un número decimal](https://practicacomposerlv92.herokuapp.com)
 * [MyMusic](http://mymusic.42web.io)
 ### Aplicaciones:
-* MyMMAApp  
+* MyMMAApp 
+Trata sobre la gestión de una empresa de artes marciales mixtas.  
 [Manual](https://luisvalles92.github.io/Contenedor/MyMMAApp/MANUAL%20DE%20USUARIO%20-%20LUIS%20VALLES%20PASTOR.pdf) | [Repositorio](https://github.com/LuisValles92/MyMMAApp)
 * MyShopApp  
+Su principal objetivo es dar a conocer las pequeñas tiendas de barrio y favorecer su competitividad con respecto a las grandes superficies y venta online.  
 [Presentación](https://luisvalles92.github.io/Contenedor/MyShopApp/Presentación%20MyShop.pdf) | [Demo](https://www.dropbox.com/s/z72u9lwnp6bkkmc/MyShop%20Demo.mp4?dl=0) | [Repositorio](https://github.com/LuisValles92/MyShopApp)
 * [KotlinApps](https://github.com/LuisValles92/KotlinApps)
 * [Web Scraping](https://github.com/LuisValles92/Practica_Maven_LuisVP)
