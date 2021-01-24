@@ -3,7 +3,7 @@
 ### Sitios web:
 * [Venta de entradas](http://ventaentradas.42web.io)
 * [Cara sonriente](https://luisvalles92.github.io/CaraSonriente)
-* [Dados - Credenciales: juan@gmail.com / juan](https://practicaapachelv92.herokuapp.com)
+* [Dados (credenciales: juan@gmail.com / juan)](https://practicaapachelv92.herokuapp.com)
 * [Integración continua](https://practicaiclv92.herokuapp.com)
 * [Juego del ahorcado](https://luisvalles92.github.io/AhorcadoJS)
 * [Diseño de interfaces web](https://luisvalles92.github.io/MyWeb)
