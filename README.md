@@ -28,7 +28,7 @@ Módulo de 2º de DAW.
 _CSS | PHP_  
 Gestión de los libros de una biblioteca.  
 [Enlace](http://crudmvcbiblioteca.42web.io) | [Proveedor](https://app.infinityfree.net/login) | [Repositorio](https://github.com/LuisValles92/CRUD_MVC_Biblioteca)
-* __Juego del tres en raya__
+* __Juego del tres en raya__  
 _JavaScript | HTML | CSS_  
 [Enlace](https://luisvalles92.github.io/TresEnRayaJS) | [Repositorio](https://github.com/LuisValles92/TresEnRayaJS)
 * [Calcular distancia entre dos coordenadas](https://examendawlv92.herokuapp.com)
