@@ -2,14 +2,17 @@
 ## :closed_book: ÚLTIMOS PROYECTOS
 ### Sitios web:
 * __Venta de entradas__  
-_PHP_  
+_PHP | CSS_  
 Gestión de la reserva de entradas de un recinto.  
 [Enlace](http://ventaentradas.42web.io) | [Proveedor](https://app.infinityfree.net/login) | [Repositorio](https://github.com/LuisValles92/Venta_entradas)
 * __Cara sonriente__  
-_JavaScript | CSS | Ramificaciones en Git_  
+_HTML | CSS | JavaScript | Ramificaciones en Git_  
 Cuando pasa el cursor por encima de la cara, sonríe y cuando pulsa sobre esta, guiña un ojo.  
 [Enlace](https://luisvalles92.github.io/CaraSonriente) | [Repositorio](https://github.com/LuisValles92/CaraSonriente)
-* [Dados (credenciales: juan@gmail.com / juan)](https://practicaapachelv92.herokuapp.com)
+* __Dados (credenciales: juan@gmail.com / juan)__  
+_PHP | CSS_  
+Simulación de la tirada de cinco dados; Trata de sumar 7 en el menor número de intentos con la tirada de dos dados; Escoja la opción par o impar y pruebe fortuna.  
+[Enlace](https://practicaapachelv92.herokuapp.com) | [Proveedor](https://dashboard.heroku.com/apps) | [Repositorio](https://github.com/LuisValles92/Practica_Apache)
 * [Integración continua](https://practicaiclv92.herokuapp.com)
 * [Juego del ahorcado](https://luisvalles92.github.io/AhorcadoJS)
 * [Diseño de interfaces web](https://luisvalles92.github.io/MyWeb)
