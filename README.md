@@ -6,7 +6,7 @@ _PHP_
 Gestión de la reserva de entradas de un recinto.  
 [Enlace](http://ventaentradas.42web.io) | [Proveedor](https://app.infinityfree.net/login) | [Repositorio](https://github.com/LuisValles92/Venta_entradas)
 * __Cara sonriente__  
-_JavaScript | Git Ramas_  
+_JavaScript | CSS | Ramificaciones en Git_  
 Cuando pasa el cursor por encima de la cara, sonríe y cuando pulsa sobre esta, guiña un ojo.  
 [Enlace](https://luisvalles92.github.io/CaraSonriente) | [Repositorio](https://github.com/LuisValles92/CaraSonriente)
 * [Dados (credenciales: juan@gmail.com / juan)](https://practicaapachelv92.herokuapp.com)
