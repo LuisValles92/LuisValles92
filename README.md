@@ -1,7 +1,9 @@
 ![Imagen de portada](https://media-exp1.licdn.com/dms/image/C4D16AQFzwVLndKpsTA/profile-displaybackgroundimage-shrink_200_800/0/1599409951425?e=1617235200&v=beta&t=mMKTUSIpZ34jB9Zq4Rz6Cs0xdy3PrTKBAZuY9np4SE8)
 ## :closed_book: ÚLTIMOS PROYECTOS
 ### Sitios web:
-* Venta de entradas  
+* __Venta de entradas__  
+_PHP_  
+Gestión de entradas de un recinto.  
 [Enlace](http://ventaentradas.42web.io) | [Repositorio](https://github.com/LuisValles92/Venta_entradas)
 * [Cara sonriente](https://luisvalles92.github.io/CaraSonriente)
 * [Dados (credenciales: juan@gmail.com / juan)](https://practicaapachelv92.herokuapp.com)
