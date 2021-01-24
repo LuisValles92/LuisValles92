@@ -12,7 +12,7 @@
 * [Geolocalización de un número decimal](https://practicacomposerlv92.herokuapp.com)
 * [MyMusic](http://mymusic.42web.io)
 ### Aplicaciones:
-* [MyMMAApp](https://github.com/LuisValles92/MyMMAApp)
+* MyMMAApp [Repositorio](https://github.com/LuisValles92/MyMMAApp) [Manual](https://luisvalles92.github.io/Contenedor/PDFs/MyMMAApp/MANUAL%20DE%20USUARIO%20-%20LUIS%20VALLES%20PASTOR.pdf)
 * [MyShopApp](https://github.com/LuisValles92/MyShopApp)
 * [KotlinApps](https://github.com/LuisValles92/KotlinApps)
 * [Web Scraping](https://github.com/LuisValles92/Practica_Maven_LuisVP)
