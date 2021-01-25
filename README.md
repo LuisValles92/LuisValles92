@@ -53,14 +53,14 @@ Trata sobre la gestión de una empresa que posee una plataforma musical.
 _Kotlin_  
 Su principal objetivo es dar a conocer las pequeñas tiendas de barrio y favorecer su competitividad con respecto a las grandes superficies y venta online.  
 [Presentación](https://luisvalles92.github.io/Contenedor/MyShopApp/Presentación%20MyShop.pdf) | [Demo](https://www.dropbox.com/s/z72u9lwnp6bkkmc/MyShop%20Demo.mp4?dl=0) | [Firebase](https://console.firebase.google.com) | [Repositorio](https://github.com/LuisValles92/MyShopApp)
-* __KotlinApps__  
-_Kotlin_  
-Siete aplicaciones diferentes: calculadora, ropero, tiempo...  
-[Capturas](https://luisvalles92.github.io/Contenedor/KotlinApps/Capturas.pdf) | [Repositorio](https://github.com/LuisValles92/KotlinApps)
 * __MyMMAApp__  
 _Java_  
 Trata sobre la gestión de una empresa de artes marciales mixtas.  
 [Manual](https://luisvalles92.github.io/Contenedor/MyMMAApp/MANUAL%20DE%20USUARIO%20-%20LUIS%20VALLES%20PASTOR.pdf) | [Repositorio](https://github.com/LuisValles92/MyMMAApp)
+* __KotlinApps__  
+_Kotlin_  
+Siete aplicaciones diferentes: calculadora, ropero, tiempo...  
+[Capturas](https://luisvalles92.github.io/Contenedor/KotlinApps/Capturas.pdf) | [Repositorio](https://github.com/LuisValles92/KotlinApps)
 * __Web Scraping__  
 _Java_  
 Obtiene la lista de todos los episodios de una serie de un sitio web en un tabla.  
