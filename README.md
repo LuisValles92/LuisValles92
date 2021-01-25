@@ -27,22 +27,14 @@ Obtiene la lista de todos los episodios de una serie de un sitio web en un tabla
 _PHP | JavaScript | CSS | HTML_  
 Trata sobre la gestión de una empresa que posee una plataforma musical.  
 [Enlace](http://mymusic.42web.io) | [Manual](https://luisvalles92.github.io/Contenedor/MyMusic/MANUAL%20DE%20USUARIO%20-%20LUIS%20VALLES%20PASTOR.pdf) | [Proveedor](https://app.infinityfree.net/login) | [Repositorio](https://github.com/LuisValles92/MyMusic)
-* __Venta de entradas__  
+* __Geolocalización de un número decimal__  
 _PHP | CSS_  
-Gestión de la reserva de entradas de un recinto.  
-[Enlace](http://ventaentradas.42web.io) | [Proveedor](https://app.infinityfree.net/login) | [Repositorio](https://github.com/LuisValles92/Venta_entradas)
-* __Cara sonriente__  
-_HTML | CSS | JavaScript | Ramificaciones en Git_  
-Cuando pasa el cursor por encima de la cara, sonríe y cuando pulsa sobre esta, guiña un ojo.  
-[Enlace](https://luisvalles92.github.io/CaraSonriente) | [Repositorio](https://github.com/LuisValles92/CaraSonriente)
+Convierte el número entero introducido en una IP y obtiene su geolocalización.  
+[Enlace](https://practicacomposerlv92.herokuapp.com) | [Proveedor](https://dashboard.heroku.com/apps) | [Repositorio](https://github.com/LuisValles92/Practica_Composer)
 * __Dados (credenciales: juan@gmail.com / juan)__  
 _PHP | CSS_  
 Simulación de la tirada de cinco dados; Trata de sumar 7 en el menor número de intentos con la tirada de dos dados; Escoja la opción par o impar y pruebe fortuna.  
 [Enlace](https://practicaapachelv92.herokuapp.com) | [Proveedor](https://dashboard.heroku.com/apps) | [Repositorio](https://github.com/LuisValles92/Practica_Apache)
-* __Integración continua__  
-_PHP_  
-Repositorio GitHub -> Testeo en Travis CI -> Despliegue en Heroku  
-[Enlace](https://practicaiclv92.herokuapp.com) | [Travis CI](https://travis-ci.org) | [Proveedor](https://dashboard.heroku.com/apps) | [Repositorio](https://github.com/LuisValles92/PracticaIC)
 * __Juego del ahorcado__  
 _JavaScript | HTML | CSS_  
 [Enlace](https://luisvalles92.github.io/AhorcadoJS) | [Repositorio](https://github.com/LuisValles92/AhorcadoJS)
@@ -61,10 +53,18 @@ _JavaScript | HTML | CSS_
 _PHP | CSS_  
 Obtenemos la distancia expresada en kilómetros y millas entre dos puntos, además lo imprimos en inglés.  
 [Enlace](https://examendawlv92.herokuapp.com) | [Proveedor](https://dashboard.heroku.com/apps) | [Repositorio](https://github.com/LuisValles92/ExamenDAW)
-* __Geolocalización de un número decimal__  
+* __Cara sonriente__  
+_HTML | CSS | JavaScript | Ramificaciones en Git_  
+Cuando pasa el cursor por encima de la cara, sonríe y cuando pulsa sobre esta, guiña un ojo.  
+[Enlace](https://luisvalles92.github.io/CaraSonriente) | [Repositorio](https://github.com/LuisValles92/CaraSonriente)
+* __Venta de entradas__  
 _PHP | CSS_  
-Convierte el número entero introducido en una IP y obtiene su geolocalización.  
-[Enlace](https://practicacomposerlv92.herokuapp.com) | [Proveedor](https://dashboard.heroku.com/apps) | [Repositorio](https://github.com/LuisValles92/Practica_Composer)
+Gestión de la reserva de entradas de un recinto.  
+[Enlace](http://ventaentradas.42web.io) | [Proveedor](https://app.infinityfree.net/login) | [Repositorio](https://github.com/LuisValles92/Venta_entradas)
+* __Integración continua__  
+_PHP_  
+Repositorio GitHub -> Testeo en Travis CI -> Despliegue en Heroku  
+[Enlace](https://practicaiclv92.herokuapp.com) | [Travis CI](https://travis-ci.org) | [Proveedor](https://dashboard.heroku.com/apps) | [Repositorio](https://github.com/LuisValles92/PracticaIC)
 
 <!--
 **LuisValles92/LuisValles92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
