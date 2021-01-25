@@ -1,9 +1,9 @@
 ![Imagen de portada](https://media-exp1.licdn.com/dms/image/C4D16AQFzwVLndKpsTA/profile-displaybackgroundimage-shrink_200_800/0/1599409951425?e=1617235200&v=beta&t=mMKTUSIpZ34jB9Zq4Rz6Cs0xdy3PrTKBAZuY9np4SE8)
 ## :page_with_curl: LENGUAJES
 ### Desarrollo web Back-end
-#### _Kotlin / Java / PHP_
+_Kotlin / Java / PHP_  
 ### Desarrollo web Front-end
-#### _JavaScript / SCSS / CSS / HTML_
+_JavaScript / SCSS / CSS / HTML_  
 ## :closed_book: ÚLTIMOS PROYECTOS
 ### Sitios web:
 * __Venta de entradas__  
