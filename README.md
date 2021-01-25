@@ -23,6 +23,10 @@ _Java_
 Obtiene la lista de todos los episodios de una serie de un sitio web en un tabla.  
 [Repositorio](https://github.com/LuisValles92/Practica_Maven_LuisVP)
 ### Sitios web:
+* __MyMusic__  
+_PHP | JavaScript | CSS | HTML_  
+Trata sobre la gestión de una empresa que posee una plataforma musical.  
+[Enlace](http://mymusic.42web.io) | [Manual](https://luisvalles92.github.io/Contenedor/MyMusic/MANUAL%20DE%20USUARIO%20-%20LUIS%20VALLES%20PASTOR.pdf) | [Proveedor](https://app.infinityfree.net/login) | [Repositorio](https://github.com/LuisValles92/MyMusic)
 * __Venta de entradas__  
 _PHP | CSS_  
 Gestión de la reserva de entradas de un recinto.  
@@ -61,10 +65,6 @@ Obtenemos la distancia expresada en kilómetros y millas entre dos puntos, adem�
 _PHP | CSS_  
 Convierte el número entero introducido en una IP y obtiene su geolocalización.  
 [Enlace](https://practicacomposerlv92.herokuapp.com) | [Proveedor](https://dashboard.heroku.com/apps) | [Repositorio](https://github.com/LuisValles92/Practica_Composer)
-* __MyMusic__  
-_PHP | JavaScript | CSS | HTML_  
-Trata sobre la gestión de una empresa que posee una plataforma musical.  
-[Enlace](http://mymusic.42web.io) | [Manual](https://luisvalles92.github.io/Contenedor/MyMusic/MANUAL%20DE%20USUARIO%20-%20LUIS%20VALLES%20PASTOR.pdf) | [Proveedor](https://app.infinityfree.net/login) | [Repositorio](https://github.com/LuisValles92/MyMusic)
 
 <!--
 **LuisValles92/LuisValles92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
