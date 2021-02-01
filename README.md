@@ -71,7 +71,7 @@ Módulo de 2º de DAW.
   
 [API desarrollada con Java](https://github.com/LuisValles92/vacunas_API)  
 [API desarrollada con PHP](https://github.com/LuisValles92/frameworks_API)  
-[API consumida desde React](https://github.com/LuisValles92/frameworks_API_React)  
+[API PHP consumida desde React](https://github.com/LuisValles92/frameworks_API_React)  
   
 <!--
 **LuisValles92/LuisValles92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
