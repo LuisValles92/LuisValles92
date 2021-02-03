@@ -69,9 +69,9 @@ Módulo de 2º de DAW.
 [Enlace](https://luisvalles92.github.io/MyWeb) | [MyCello](https://luisvalles92.github.io/MyWeb/temario/tema3/practicas/recursos/responsive_images) | [Repositorio](https://github.com/LuisValles92/MyWeb)
   
   
-[API desarrollada con Java](https://github.com/LuisValles92/vacunas_API)  
-[API desarrollada con PHP](https://github.com/LuisValles92/frameworks_API)  
-[API PHP consumida desde React](https://github.com/LuisValles92/frameworks_API_React)  
+[API REST desarrollada con Java](https://github.com/LuisValles92/vacunas_API)  
+[API REST desarrollada con PHP](https://github.com/LuisValles92/frameworks_API)  
+[API REST PHP consumida desde React](https://github.com/LuisValles92/frameworks_API_React)  
   
 <!--
 **LuisValles92/LuisValles92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
