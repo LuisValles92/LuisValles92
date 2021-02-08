@@ -70,6 +70,7 @@ Módulo de 2º de DAW.
   
   
 [API REST desarrollada con Java](https://github.com/LuisValles92/vacunas_API)  
+[API REST Java consumida desde React](https://github.com/LuisValles92/vacunas_API_React)  
 [API REST desarrollada con PHP](https://github.com/LuisValles92/frameworks_API)  
 [API REST PHP consumida desde React](https://github.com/LuisValles92/frameworks_API_React)  
   
