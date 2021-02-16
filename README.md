@@ -53,6 +53,9 @@ Gestión de la reserva de entradas de un recinto.
 _PHP_  
 Repositorio GitHub -> Testeo en Travis CI -> Despliegue en Heroku  
 [Enlace](https://practicaiclv92.herokuapp.com) | [Travis CI](https://travis-ci.org) | [Proveedor](https://dashboard.heroku.com/apps) | [Repositorio](https://github.com/LuisValles92/PracticaIC)
+* __MyCard__  
+_JavaScript | HTML | SCSS | CSS_  
+[Enlace](https://luisvalles92.github.io/MyCard) | [Manual](https://luisvalles92.github.io/Contenedor/MyCard/MANUAL%20-%20LUIS%20VALLES%20PASTOR.pdf) | [Repositorio](https://github.com/LuisValles92/MyCard)
 * __Juego del ahorcado__  
 _JavaScript | HTML | CSS_  
 [Enlace](https://luisvalles92.github.io/AhorcadoJS) | [Repositorio](https://github.com/LuisValles92/AhorcadoJS)
@@ -73,7 +76,6 @@ Módulo de 2º de DAW.
 [API REST Java consumida desde React](https://github.com/LuisValles92/vacunas_API_React)  
 [API REST desarrollada con PHP](https://github.com/LuisValles92/frameworks_API)  
 [API REST PHP consumida desde React](https://github.com/LuisValles92/frameworks_API_React)  
-[MyCard](https://github.com/LuisValles92/MyCard)  
   
 <!--
 **LuisValles92/LuisValles92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
