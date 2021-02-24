@@ -80,10 +80,7 @@ _HTML | SCSS | CSS | JavaScript_
 Módulo de 2º de DAW.  
 [Enlace](https://luisvalles92.github.io/MyWeb) | [MyCello](https://luisvalles92.github.io/MyWeb/temario/tema3/practicas/recursos/responsive_images) | [MyCello (Accesible)](https://luisvalles92.github.io/MyWeb/temario/tema5/practicas/recursos/responsive_images) | [Accesibilidad](https://luisvalles92.github.io/MyWeb/temario/tema5/practicas/recursos/accesibilidad) | [Amapolas](https://luisvalles92.github.io/MyWeb/temario/tema3/practicas/recursos/ejercicio-1) | [Repositorio](https://github.com/LuisValles92/MyWeb)
   
-  
-[API REST desarrollada con PHP](https://github.com/LuisValles92/frameworks_API)  
-[API REST PHP consumida desde React](https://github.com/LuisValles92/frameworks_API_React)  
-  
+
 <!--
 **LuisValles92/LuisValles92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
