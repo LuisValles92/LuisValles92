@@ -81,8 +81,6 @@ Módulo de 2º de DAW.
 [Enlace](https://luisvalles92.github.io/MyWeb) | [MyCello](https://luisvalles92.github.io/MyWeb/temario/tema3/practicas/recursos/responsive_images) | [MyCello (Accesible)](https://luisvalles92.github.io/MyWeb/temario/tema5/practicas/recursos/responsive_images) | [Accesibilidad](https://luisvalles92.github.io/MyWeb/temario/tema5/practicas/recursos/accesibilidad) | [Amapolas](https://luisvalles92.github.io/MyWeb/temario/tema3/practicas/recursos/ejercicio-1) | [Repositorio](https://github.com/LuisValles92/MyWeb)
   
   
-[API REST desarrollada con Java](https://github.com/LuisValles92/vacunas_API)  
-[API REST Java consumida desde React](https://github.com/LuisValles92/vacunas_API_React)  
 [API REST desarrollada con PHP](https://github.com/LuisValles92/frameworks_API)  
 [API REST PHP consumida desde React](https://github.com/LuisValles92/frameworks_API_React)  
   
