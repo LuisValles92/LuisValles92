@@ -25,10 +25,6 @@ _Java_
 Obtiene la lista de todos los episodios de una serie de un sitio web en un tabla.  
 [Repositorio](https://github.com/LuisValles92/Practica_Maven_LuisVP)
 ### Sitios web:
-* __MyMusic__  
-_PHP | JavaScript | CSS | HTML_  
-Trata sobre la gestión de una empresa que posee una plataforma musical.  
-[Enlace](http://mymusic.42web.io) | [Manual](https://luisvalles92.github.io/Contenedor/MyMusic/MANUAL%20DE%20USUARIO%20-%20LUIS%20VALLES%20PASTOR.pdf) | [Proveedor](https://app.infinityfree.net/login) | [Repositorio](https://github.com/LuisValles92/MyMusic)
 * __vacunas_API__  
 _BackEnd_  
 API REST desarrollada con Java.  
@@ -38,6 +34,10 @@ Eclipse IDE + Apache Tomcat + Spring Boot + MySQL + Postman
 _FrontEnd_  
 API REST Java consumida desde React.  
 [Despliegue (BackEnd local)](https://602ebe42d17311162f5e5004--vacunasapi.netlify.app) | [Netlify](https://app.netlify.com) | [Enlace](https://dev.to/crisfer4217/desplegar-app-de-react-js-en-netlify-en-menos-de-5-min-3li9) | [vacunas_API](https://github.com/LuisValles92/vacunas_API) | [Repositorio](https://github.com/LuisValles92/vacunas_API_React)
+* __MyMusic__  
+_PHP | JavaScript | CSS | HTML_  
+Trata sobre la gestión de una empresa que posee una plataforma musical.  
+[Enlace](http://mymusic.42web.io) | [Manual](https://luisvalles92.github.io/Contenedor/MyMusic/MANUAL%20DE%20USUARIO%20-%20LUIS%20VALLES%20PASTOR.pdf) | [Proveedor](https://app.infinityfree.net/login) | [Repositorio](https://github.com/LuisValles92/MyMusic)
 * __Geolocalización de un número decimal__  
 _PHP | CSS_  
 Convierte el número entero introducido en una IP y obtiene su geolocalización.  
