@@ -84,6 +84,10 @@ _JavaScript | HTML | CSS_
 _HTML | CSS | JavaScript | Ramificaciones en Git_  
 Cuando pasa el cursor por encima de la cara, sonríe y cuando pulsa sobre esta, guiña un ojo.  
 [Enlace](https://luisvalles92.github.io/CaraSonriente) | [Repositorio](https://github.com/LuisValles92/CaraSonriente)
+* __Desarrollo Web en Entorno Cliente__  
+_JavaScript_  
+Módulo de 2º de DAW.  
+[Enlace](https://luisvalles92.github.io/glosario-dwec) | [Repositorio](https://github.com/LuisValles92/glosario-dwec)
 * __Diseño de Interfaces Web__  
 _HTML | SCSS | CSS | JavaScript_  
 Módulo de 2º de DAW.  
