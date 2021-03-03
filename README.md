@@ -87,7 +87,7 @@ Cuando pasa el cursor por encima de la cara, sonríe y cuando pulsa sobre esta, 
 * __Desarrollo Web en Entorno Cliente__  
 _JavaScript_  
 Módulo de 2º de DAW.  
-[Enlace](https://luisvalles92.github.io/glosario-dwec) | [Repositorio](https://github.com/LuisValles92/glosario-dwec)
+[Enlace](https://luisvalles92.github.io/glosario-dwec) | [MyCard](https://github.com/LuisValles92/MyCard) | [Repositorio](https://github.com/LuisValles92/glosario-dwec)
 * __Diseño de Interfaces Web__  
 _HTML | SCSS | CSS | JavaScript_  
 Módulo de 2º de DAW.  
