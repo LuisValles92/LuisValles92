@@ -73,7 +73,7 @@ Repositorio GitHub -> Testeo en Travis CI -> Despliegue en Heroku
 [Enlace](https://practicaiclv92.herokuapp.com) | [Travis CI](https://travis-ci.org) | [Proveedor](https://dashboard.heroku.com/apps) | [Repositorio](https://github.com/LuisValles92/PracticaIC)
 * __MyStore__  
 _Angular_  
-[Enlace](https://angular-ylgs7z.stackblitz.io)
+[Enlace](https://angular-ylgs7z.stackblitz.io) | [StackBlitz](https://stackblitz.com/@LuisValles92)
 * __MyCard__  
 _JavaScript | HTML | SCSS | CSS_  
 [Enlace](https://luisvalles92.github.io/MyCard) | [Manual](https://luisvalles92.github.io/Contenedor/MyCard/MANUAL%20-%20LUIS%20VALLES%20PASTOR.pdf) | [Repositorio](https://github.com/LuisValles92/MyCard)
@@ -96,7 +96,7 @@ _HTML | SCSS | CSS | JavaScript_
 Módulo de 2º de DAW.  
 [Enlace](https://luisvalles92.github.io/MyWeb) | [MyCello](https://luisvalles92.github.io/MyWeb/temario/tema3/practicas/recursos/responsive_images) | [MyCello (Accesible)](https://luisvalles92.github.io/MyWeb/temario/tema5/practicas/recursos/responsive_images) | [Accesibilidad](https://luisvalles92.github.io/MyWeb/temario/tema5/practicas/recursos/accesibilidad) | [Amapolas](https://luisvalles92.github.io/MyWeb/temario/tema3/practicas/recursos/ejercicio-1) | [Repositorio](https://github.com/LuisValles92/MyWeb)
 ## :link: OTROS ENLACES
-[StackBlitz](https://stackblitz.com/@LuisValles92) | 
+[StackBlitz](https://stackblitz.com/@LuisValles92)
   
 
 <!--
