@@ -60,7 +60,7 @@ _PHP | CSS_
 Simulación de la tirada de cinco dados; Trata de sumar 7 en el menor número de intentos con la tirada de dos dados; Escoja la opción par o impar y pruebe fortuna.  
 [Enlace](https://practicaapachelv92.herokuapp.com) | [Proveedor](https://dashboard.heroku.com/apps) | [Repositorio](https://github.com/LuisValles92/Practica_Apache)
 * __Biblioteca (credenciales: juan / juan)__  
-_CSS | PHP_  
+_PHP | CSS_  
 Gestión de los libros de una biblioteca.  
 [Enlace](http://crudmvcbiblioteca.42web.io) | [Proveedor](https://app.infinityfree.net/login) | [Repositorio](https://github.com/LuisValles92/CRUD_MVC_Biblioteca)
 * __Venta de entradas__  
