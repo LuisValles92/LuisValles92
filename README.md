@@ -74,6 +74,10 @@ Repositorio GitHub -> Testeo en Travis CI -> Despliegue en Heroku
 * __MyStore__  
 _Angular_  
 [Enlace](https://angular-ylgs7z.stackblitz.io) | [Tutorial](https://docs.angular.lat/start) | [StackBlitz](https://stackblitz.com/edit/angular-ylgs7z)
+* __mystore-angular__  
+_Angular_  
+Pruébalo - Aplicación de muestra.  
+[Tutorial](https://docs.angular.lat/start) | [Repositorio](https://github.com/LuisValles92/mystore-angular)
 * __angular-docker__  
 _Angular | Docker_  
 Creación de mi primer proyecto Angular en local y despliegue sobre Docker.  
