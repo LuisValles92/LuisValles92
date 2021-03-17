@@ -5,7 +5,7 @@ Soy un apasionado del aprendizaje continuo, responsable, organizado, persuasivo,
 ### Back-end:
 _Kotlin | Java | PHP_  
 ### Front-end:
-_JavaScript | HTML | CSS | SCSS (SASS)_  
+_TypeScript (Angular) | JavaScript | HTML | CSS | SCSS (SASS)_  
 ## :closed_book: ÚLTIMOS PROYECTOS
 ### Aplicaciones:
 * __MyShopApp__  
