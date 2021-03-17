@@ -82,6 +82,10 @@ Creación de mi primer proyecto Angular en local y despliegue sobre Docker.
 _Angular_  
 Pruébalo - Aplicación de muestra.  
 [Tutorial](https://docs.angular.lat/start) | [Repositorio](https://github.com/LuisValles92/mystore-angular)
+* __angular-ghpages__  
+_Angular | GitHub Pages_  
+Proyecto inicial de Angular desplegado sobre GitHub Pages.  
+[Enlace](https://luisvalles92.github.io/angular-ghpages/) | [Tutorial](https://www.youtube.com/watch?v=lM4A6SBK1uQ) | [npmjs](https://www.npmjs.com/package/angular-cli-ghpages) | [Repositorio](https://github.com/LuisValles92/angular-ghpages)
 * __MyCard__  
 _JavaScript | HTML | SCSS | CSS_  
 [Enlace](https://luisvalles92.github.io/MyCard) | [Manual](https://luisvalles92.github.io/Contenedor/MyCard/MANUAL%20-%20LUIS%20VALLES%20PASTOR.pdf) | [Repositorio](https://github.com/LuisValles92/MyCard)
