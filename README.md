@@ -78,14 +78,14 @@ _Angular_
 _Angular | Docker_  
 Creación de mi primer proyecto Angular en local y despliegue sobre Docker.  
 [Estandarizacion y productividad](https://www.campusmvp.es/recursos/post/los-beneficios-de-utilizar-docker-y-contenedores-a-la-hora-de-programar.aspx) | [Tutorial](https://fbellod.medium.com/como-cargar-tu-app-en-angular-a-los-registros-de-docker-hub-1f32d18201fb) | [Docker Hub](https://hub.docker.com) | [Repositorio](https://github.com/LuisValles92/angular-docker)
-* __mystore-angular__  
-_Angular_  
-Pruébalo - Aplicación de muestra.  
-[Tutorial](https://docs.angular.lat/start) | [Repositorio](https://github.com/LuisValles92/mystore-angular)
 * __angular-ghpages__  
 _Angular | GitHub Pages_  
 Proyecto inicial de Angular desplegado sobre GitHub Pages.  
 [Enlace](https://luisvalles92.github.io/angular-ghpages/) | [Tutorial](https://www.youtube.com/watch?v=lM4A6SBK1uQ) | [npmjs](https://www.npmjs.com/package/angular-cli-ghpages) | [Repositorio](https://github.com/LuisValles92/angular-ghpages)
+* __angular-mystore__  
+_Angular | GitHub Pages_  
+Pruébalo - Aplicación de muestra desplegada sobre GitHub Pages.  
+[Enlace](https://luisvalles92.github.io/angular-mystore/) | [Tutorial](https://docs.angular.lat/start) | [Repositorio](https://github.com/LuisValles92/angular-mystore)
 * __MyCard__  
 _JavaScript | HTML | SCSS | CSS_  
 [Enlace](https://luisvalles92.github.io/MyCard) | [Manual](https://luisvalles92.github.io/Contenedor/MyCard/MANUAL%20-%20LUIS%20VALLES%20PASTOR.pdf) | [Repositorio](https://github.com/LuisValles92/MyCard)
