@@ -76,7 +76,7 @@ _Angular_
 [Enlace](https://angular-ylgs7z.stackblitz.io) | [Tutorial](https://docs.angular.lat/start) | [StackBlitz](https://stackblitz.com/edit/angular-ylgs7z)
 * __angular-docker__  
 _Angular | Docker_  
-Creación de mi primer proyecto Angular en local y despliegue sobre Docker.  
+Proyecto inicial de Angular desplegado sobre Docker.  
 [Estandarizacion y productividad](https://www.campusmvp.es/recursos/post/los-beneficios-de-utilizar-docker-y-contenedores-a-la-hora-de-programar.aspx) | [Tutorial](https://fbellod.medium.com/como-cargar-tu-app-en-angular-a-los-registros-de-docker-hub-1f32d18201fb) | [Docker Hub](https://hub.docker.com) | [Repositorio](https://github.com/LuisValles92/angular-docker)
 * __angular-ghpages__  
 _Angular | GitHub Pages_  
