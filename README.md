@@ -108,7 +108,7 @@ _HTML | SCSS | CSS | JavaScript_
 Módulo de 2º de DAW.  
 [Enlace](https://luisvalles92.github.io/MyWeb) | [MyCello](https://luisvalles92.github.io/MyWeb/temario/tema3/practicas/recursos/responsive_images) | [MyCello (Accesible)](https://luisvalles92.github.io/MyWeb/temario/tema5/practicas/recursos/responsive_images) | [Accesibilidad](https://luisvalles92.github.io/MyWeb/temario/tema5/practicas/recursos/accesibilidad) | [Amapolas](https://luisvalles92.github.io/MyWeb/temario/tema3/practicas/recursos/ejercicio-1) | [Repositorio](https://github.com/LuisValles92/MyWeb)
   
-https://github.com/Develatio/practica-git-flow-02
+https://github.com/Develatio/practica-git-flow-02  
 https://medium.com/puntotech/build-deploy-angular-apps-en-github-pages-con-github-actions-8213466ef8dc
   
 ## :link: OTROS ENLACES
