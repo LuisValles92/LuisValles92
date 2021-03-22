@@ -86,6 +86,10 @@ Proyecto inicial de Angular desplegado sobre GitHub Pages.
 _Angular | GitHub Pages_  
 Pruébalo - Aplicación de muestra desplegada sobre GitHub Pages.  
 [Enlace](https://luisvalles92.github.io/angular-mystore/) | [Tutorial](https://docs.angular.lat/start) | [Repositorio](https://github.com/LuisValles92/angular-mystore)
+* __angular-tourheroes__  
+_Angular | GitHub Pages_  
+Tutorial: Tour de Héroes - Aplicación desplegada sobre GitHub Pages.  
+[Enlace](https://luisvalles92.github.io/angular-tourheroes/) | [Tutorial](https://docs.angular.lat/tutorial) | [Repositorio](https://github.com/LuisValles92/angular-tourheroes)
 * __MyCard__  
 _JavaScript | HTML | SCSS | CSS_  
 [Enlace](https://luisvalles92.github.io/MyCard) | [Manual](https://luisvalles92.github.io/Contenedor/MyCard/MANUAL%20-%20LUIS%20VALLES%20PASTOR.pdf) | [Repositorio](https://github.com/LuisValles92/MyCard)
