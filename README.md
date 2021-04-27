@@ -1,4 +1,4 @@
-![Imagen de portada](https://media-exp1.licdn.com/dms/image/C4D16AQFzwVLndKpsTA/profile-displaybackgroundimage-shrink_200_800/0/1599409951425?e=1617235200&v=beta&t=mMKTUSIpZ34jB9Zq4Rz6Cs0xdy3PrTKBAZuY9np4SE8)  
+![Imagen de portada](https://wonderfulengineering.com/wp-content/uploads/2014/04/code-wallpaper-19.png)  
   
 Soy un apasionado del aprendizaje continuo, responsable, organizado, persuasivo, resolutivo y adaptable al equipo. Me gustan los retos y alcanzar objetivos. Poseo autonomía en investigación.  
 ## :page_with_curl: DESARROLLO WEB
