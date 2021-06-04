@@ -71,25 +71,29 @@ Gestión de la reserva de entradas de un recinto.
 _PHP_  
 Repositorio GitHub -> Testeo en Travis CI -> Despliegue en Heroku  
 [Enlace](https://practicaiclv92.herokuapp.com) | [Travis CI](https://travis-ci.org) | [Proveedor](https://dashboard.heroku.com/apps) | [Repositorio](https://github.com/LuisValles92/PracticaIC)
-* __MyStore__  
-_Angular_  
-[Enlace](https://angular-ylgs7z.stackblitz.io) | [Tutorial](https://docs.angular.lat/start) | [StackBlitz](https://stackblitz.com/edit/angular-ylgs7z)
-* __angular-docker__  
-_Angular | Docker_  
-Proyecto inicial de Angular desplegado sobre Docker.  
-[Estandarizacion y productividad](https://www.campusmvp.es/recursos/post/los-beneficios-de-utilizar-docker-y-contenedores-a-la-hora-de-programar.aspx) | [Tutorial](https://fbellod.medium.com/como-cargar-tu-app-en-angular-a-los-registros-de-docker-hub-1f32d18201fb) | [Docker Hub](https://hub.docker.com) | [Repositorio](https://github.com/LuisValles92/angular-docker)
-* __angular-ghpages__  
-_Angular | GitHub Pages_  
-Proyecto inicial de Angular desplegado sobre GitHub Pages.  
-[Enlace](https://luisvalles92.github.io/angular-ghpages/) | [Tutorial](https://www.youtube.com/watch?v=lM4A6SBK1uQ) | [npmjs](https://www.npmjs.com/package/angular-cli-ghpages) | [Repositorio](https://github.com/LuisValles92/angular-ghpages)
-* __angular-mystore__  
-_Angular | GitHub Pages_  
-Pruébalo - Aplicación de muestra desplegada sobre GitHub Pages.  
-[Enlace](https://luisvalles92.github.io/angular-mystore/) | [Tutorial](https://docs.angular.lat/start) | [Repositorio](https://github.com/LuisValles92/angular-mystore)
+* __angular-fitnesstracker__  
+_Angular | Angular Material | Angularfire | NgRx | Responsive | Firebase_  
+Curso: Angular (Full App) with Angular Material, Angularfire & NgRx - Aplicación desplegada sobre Firebase Hosting.  
+[Enlace](https://ng-fitness-tracker-6add0.web.app) | [Enlace alternativo](https://ng-fitness-tracker-6add0.firebaseapp.com) | [Curso](https://www.udemy.com/course/angular-full-app-with-angular-material-angularfire-ngrx/) | [Repositorio](https://github.com/LuisValles92/angular-fitnesstracker)
 * __angular-tourheroes__  
 _Angular | GitHub Pages_  
 Tutorial: Tour de Héroes - Aplicación desplegada sobre GitHub Pages.  
 [Enlace](https://luisvalles92.github.io/angular-tourheroes/) | [Tutorial](https://docs.angular.lat/tutorial) | [Repositorio](https://github.com/LuisValles92/angular-tourheroes)
+* __angular-mystore__  
+_Angular | GitHub Pages_  
+Pruébalo - Aplicación de muestra desplegada sobre GitHub Pages.  
+[Enlace](https://luisvalles92.github.io/angular-mystore/) | [Tutorial](https://docs.angular.lat/start) | [Repositorio](https://github.com/LuisValles92/angular-mystore)
+* __angular-ghpages__  
+_Angular | GitHub Pages_  
+Proyecto inicial de Angular desplegado sobre GitHub Pages.  
+[Enlace](https://luisvalles92.github.io/angular-ghpages/) | [Tutorial](https://www.youtube.com/watch?v=lM4A6SBK1uQ) | [npmjs](https://www.npmjs.com/package/angular-cli-ghpages) | [Repositorio](https://github.com/LuisValles92/angular-ghpages)
+* __angular-docker__  
+_Angular | Docker_  
+Proyecto inicial de Angular desplegado sobre Docker.  
+[Estandarizacion y productividad](https://www.campusmvp.es/recursos/post/los-beneficios-de-utilizar-docker-y-contenedores-a-la-hora-de-programar.aspx) | [Tutorial](https://fbellod.medium.com/como-cargar-tu-app-en-angular-a-los-registros-de-docker-hub-1f32d18201fb) | [Docker Hub](https://hub.docker.com) | [Repositorio](https://github.com/LuisValles92/angular-docker)
+* __MyStore__  
+_Angular_  
+[Enlace](https://angular-ylgs7z.stackblitz.io) | [Tutorial](https://docs.angular.lat/start) | [StackBlitz](https://stackblitz.com/edit/angular-ylgs7z)
 * __MyCard__  
 _JavaScript | HTML | SCSS | CSS_  
 [Enlace](https://luisvalles92.github.io/MyCard) | [Manual](https://luisvalles92.github.io/Contenedor/MyCard/MANUAL%20-%20LUIS%20VALLES%20PASTOR.pdf) | [Repositorio](https://github.com/LuisValles92/MyCard)
