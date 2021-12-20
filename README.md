@@ -80,6 +80,9 @@ Gestión de la reserva de entradas de un recinto.
 _PHP_  
 Repositorio GitHub -> Testeo en Travis CI -> Despliegue en Heroku  
 [Enlace](https://practicaiclv92.herokuapp.com) | [Travis CI](https://travis-ci.org) | [Proveedor](https://dashboard.heroku.com/apps) | [Repositorio](https://github.com/LuisValles92/PracticaIC)
+* __spring-security-ldap__  
+_Spring Boot | Spring Security | LDAP_  
+[Tutorial](https://www.youtube.com/watch?v=-wDUChgvYgU) | [Repositorio](https://github.com/LuisValles92/spring-security-ldap)
 * __angular-fitnesstracker__  
 _Angular | Angular Material | Angularfire | NgRx | Responsive | Firebase_  
 Curso: Angular (Full App) with Angular Material, Angularfire & NgRx - Aplicación desplegada sobre Firebase Hosting.  
