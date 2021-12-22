@@ -25,10 +25,6 @@ _Java_
 Obtiene la lista de todos los episodios de una serie de un sitio web en un tabla.  
 [Repositorio](https://github.com/LuisValles92/Practica_Maven_LuisVP)
 ### Sitios web:
-* __luis.mygym__  
-_Spring Boot | MySQL | Angular_  
-Trata sobre la gestión de la rutina de entrenamiento personal del usuario.  
-[Enlace](https://heroku-luis-mygym-front.herokuapp.com) | [API REST](https://heroku-luis-mygym-back.herokuapp.com) | [Memoria](https://luisvalles92.github.io/Contenedor/MyGym/memoria-proyecto-final-luis-valles-pastor.pdf) | [Presentación](https://luisvalles92.github.io/Contenedor/MyGym/presentación-proyecto-final-luis-valles-pastor.pdf) |  [Repositorio - Back](https://github.com/LuisValles92/luis.mygym-back) | [Repositorio - Integración](https://github.com/LuisValles92/luis.mygym-integracion) | [Repositorio - Front](https://github.com/LuisValles92/luis.mygym-front)
 * __LuvShop__  
 _Spring Boot | Okta | Angular_  
 Curso: Full Stack: Angular and Java Spring Boot.  
