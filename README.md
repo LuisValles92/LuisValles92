@@ -3,19 +3,11 @@
 Soy un apasionado del aprendizaje continuo, responsable, organizado, persuasivo, resolutivo y adaptable al equipo. Me gustan los retos y alcanzar objetivos. Poseo autonomía en investigación.  
 ## :page_with_curl: DESARROLLO WEB
 ### Back-end:
-_Kotlin | Java | PHP_  
+_Java | Kotlin | PHP_  
 ### Front-end:
-_TypeScript (Angular) | JavaScript | HTML | CSS | SCSS (SASS)_  
+_TypeScript (Angular) | JavaScript | HTML | SCSS (SASS) | CSS_  
 ## :closed_book: ÚLTIMOS PROYECTOS
 ### Aplicaciones:
-* __MyShopApp__  
-_Kotlin_  
-Su principal objetivo es dar a conocer las pequeñas tiendas de barrio y favorecer su competitividad con respecto a las grandes superficies y venta online.  
-[Presentación](https://luisvalles92.github.io/Contenedor/MyShopApp/Presentación%20MyShop.pdf) | [Demo](https://www.dropbox.com/s/z72u9lwnp6bkkmc/MyShop%20Demo.mp4?dl=0) | [Firebase](https://console.firebase.google.com) | [Repositorio](https://github.com/LuisValles92/MyShopApp)
-* __KotlinApps__  
-_Kotlin_  
-Siete aplicaciones diferentes: calculadora, ropero, tiempo...  
-[Capturas](https://luisvalles92.github.io/Contenedor/KotlinApps/Capturas.pdf) | [Repositorio](https://github.com/LuisValles92/KotlinApps)
 * __MyMMAApp__  
 _Java_  
 Trata sobre la gestión de una empresa de artes marciales mixtas.  
@@ -24,6 +16,14 @@ Trata sobre la gestión de una empresa de artes marciales mixtas.
 _Java_  
 Obtiene la lista de todos los episodios de una serie de un sitio web en un tabla.  
 [Repositorio](https://github.com/LuisValles92/Practica_Maven_LuisVP)
+* __MyShopApp__  
+_Kotlin_  
+Su principal objetivo es dar a conocer las pequeñas tiendas de barrio y favorecer su competitividad con respecto a las grandes superficies y venta online.  
+[Presentación](https://luisvalles92.github.io/Contenedor/MyShopApp/Presentación%20MyShop.pdf) | [Demo](https://www.dropbox.com/s/z72u9lwnp6bkkmc/MyShop%20Demo.mp4?dl=0) | [Firebase](https://console.firebase.google.com) | [Repositorio](https://github.com/LuisValles92/MyShopApp)
+* __KotlinApps__  
+_Kotlin_  
+Siete aplicaciones diferentes: calculadora, ropero, tiempo...  
+[Capturas](https://luisvalles92.github.io/Contenedor/KotlinApps/Capturas.pdf) | [Repositorio](https://github.com/LuisValles92/KotlinApps)
 ### Sitios web:
 * __LuvShop__  
 _Spring Boot | Okta | Angular_  
